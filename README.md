@@ -1,16 +1,135 @@
-# React + Vite
+<!-- ================= BANNER ================= -->
+<p align="center">
+  <img src="https://i.ibb.co/4pQ0ZzV/ecommerce-banner.png" alt="MD Mar E-commerce Banner" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">🛍️ MD Mar - Modern E-commerce Web App</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+A modern, responsive and high-performance eCommerce platform built with React, Tailwind CSS, and Framer Motion.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+<!-- ================= BADGES ================= -->
+<p align="center">
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss" />
+<img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer" />
+<img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?logo=netlify" />
+<img src="https://img.shields.io/badge/Responsive-Design-success" />
 
-## Expanding the ESLint configuration
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+👉 https://mdmar.netlify.app/
+
+---
+
+## 📸 Project Screenshots
+
+<p align="center">
+
+<img src="https://i.ibb.co/7Qz2nJX/home.png" width="32%" />
+<img src="https://i.ibb.co/3yQpQ0f/shop.png" width="32%" />
+<img src="https://i.ibb.co/0jzK5vM/product.png" width="32%" />
+
+</p>
+
+---
+
+## 🚀 Features
+
+- 🛍️ Modern eCommerce UI/UX
+- 🔎 Product search & filtering system
+- 🏷️ Brand & category based navigation
+- 🛒 Add to cart functionality
+- ❤️ Wishlist system
+- 📦 Product details page
+- ⚡ Smooth animations (Framer Motion)
+- 📱 Fully responsive (Mobile + Desktop)
+- 🔔 Toast notifications system
+
+---
+
+## ⚙️ Tech Stack
+
+- ⚛️ React.js (Frontend Framework)
+- 🎨 Tailwind CSS (UI Styling)
+- 🧠 Context API (State Management)
+- 🔄 React Router DOM (Routing)
+- ⚡ Framer Motion (Animations)
+- 🔔 React Toastify (Notifications)
+
+---
+
+## 📁 Project Structure
+src/
+├── components/
+│ ├── layout/
+│ ├── product/
+│ ├── blog/
+├── pages/
+├── data/
+├── context/
+├── App.jsx
+└── main.jsx
+
+
+
+---
+
+## 🧠 What I Learned
+
+- Scalable React architecture
+- State management with Context API
+- UI/UX design principles
+- Component reusability
+- Animation integration (Framer Motion)
+- Real-world eCommerce workflow
+
+---
+
+## 🔮 Future Improvements
+
+- 🔐 Authentication system (Login/Register)
+- 💳 Payment gateway integration
+- 📦 Backend API (Node.js / Express)
+- 🧾 Admin dashboard
+- 🔍 Advanced search & filtering
+- 📊 Analytics dashboard
+
+---
+
+## 👨‍💻 About Developer
+
+<p align="center">
+
+<img src="https://i.ibb.co/7Y0bK8m/profile.png" width="120" style="border-radius:50%" />
+
+</p>
+
+### SHEIKH SADI  
+Frontend Developer | React Enthusiast | UI/UX Learner  
+
+- 💻 Passionate about building modern web apps  
+- 🎯 Focused on clean UI & scalable code  
+- 🚀 Always learning new technologies  
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 📢 Share with others  
+
+---
+
+<p align="center">🚀 Built with ❤️ by SHEIKH SADI</p>
